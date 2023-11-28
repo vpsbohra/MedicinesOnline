@@ -1,0 +1,45 @@
+travel_func
+"vaccination=yes&vaccination_name=COVID+19&first_name=Carol&last_name=Yau&passport_number=134547265&email=crlyau%40yahoo.com&nhs_no=&tel=07769186623&dateofbirth=14%2F04%2F1977&ethnicity=chinese&sex=Female&current_address1=10+Seaton+Close&current_address2=Easington+Village&current_country=United+Kingdom&current_city=Peterlee&current_city_post_code=SR8+3JS&check1_hidden=yes&isolate_address1=&isolate_address2=&isolate_city=&isolate_city_post_code=&isolate_country=&departure_date=31%2F07%2F2023&flight_num=HTXA-S17C02E3C&tp_country=Spain&tp_city=Barcelona&tp_airport=Newcastle+Airport&transit_stopover%5B0%5D%5Btransit_stopover_country%5D=&transit_stopover%5B0%5D%5Btransit_stopover_city%5D=&transit_stopover%5B0%5D%5Btransit_stopover_airport%5D=&transit_stopover%5B0%5D%5Btransit_stopover_departure_date%5D=&final_arrival_date=31%2F07%2F2023&final_arrival_port=Barcelona&final_arrival_city=Spain&final_arrival_flightnum=HTXA-S17C02E3C&user_id=0&booking_id=133268"
+1 form submitted call
+2 registeration id : MOLUK100000
+3 User form data Array
+(
+    [user_id] => 0
+    [productID] => 133268
+    [registrationID] => MOLUK100000
+    [passport] => 134547265
+    [orderID] => 0
+    [first_name] => Carol
+    [last_name] => Yau
+    [email] => crlyau@yahoo.com
+    [nhs_no] => 
+    [tel] => 07769186623
+    [dateofbirth] => 14/04/1977
+    [ethnicity] => chinese
+    [sex] => Female
+    [current_address1] => 10 Seaton Close
+    [current_address2] => Easington Village
+    [current_city] => Peterlee
+    [current_city_post_code] => SR8 3JS
+    [current_country] => United Kingdom
+    [isolate_address1] => 10 Seaton Close
+    [isolate_address2] => Easington Village
+    [isolate_city] => Peterlee
+    [isolate_city_post_code] => SR8 3JS
+    [isolate_country] => United Kingdom
+    [departure_date] => 31/07/2023
+    [flight_num] => HTXA-S17C02E3C
+    [tp_city] => Barcelona
+    [tp_country] => Spain
+    [tp_airport] => Newcastle Airport
+    [final_arrival_date] => 31/07/2023
+    [final_arrival_port] => Barcelona
+    [final_arrival_city] => Spain
+    [final_arrival_flightnum] => HTXA-S17C02E3C
+    [vaccination] => yes
+    [transit_stopover_data] => default
+)
+
+4 inserted id  111680
+5 success  
+-------------------------

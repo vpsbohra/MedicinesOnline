@@ -1,0 +1,45 @@
+travel_func
+"vaccination=no&vaccination_name=&first_name=Ismail&last_name=El+Idrissi+Rachid&passport_number=NA&email=rachid13%40gmail.com&nhs_no=&tel=%2B12027131822&dateofbirth=15%2F07%2F1988&ethnicity=other-ethnic&sex=male&current_address1=na&current_address2=na&current_country=United+Kingdom&current_city=London&current_city_post_code=SW11+2PF&check1_hidden=yes&isolate_address1=&isolate_address2=&isolate_city=&isolate_city_post_code=&isolate_country=&departure_date=17%2F01%2F2023&flight_num=hdhdfg&tp_country=United+States&tp_city=maryland&tp_airport=na&transit_stopover%5B0%5D%5Btransit_stopover_country%5D=&transit_stopover%5B0%5D%5Btransit_stopover_city%5D=&transit_stopover%5B0%5D%5Btransit_stopover_airport%5D=&transit_stopover%5B0%5D%5Btransit_stopover_departure_date%5D=&final_arrival_date=18%2F08%2F2022&final_arrival_port=HHH&final_arrival_city=HHH&final_arrival_flightnum=HHH&user_id=0&booking_id=121808"
+1 form submitted call
+2 registeration id : MOLUK100000
+3 User form data Array
+(
+    [user_id] => 0
+    [productID] => 121808
+    [registrationID] => MOLUK100000
+    [passport] => NA
+    [orderID] => 0
+    [first_name] => Ismail
+    [last_name] => El Idrissi Rachid
+    [email] => rachid13@gmail.com
+    [nhs_no] => 
+    [tel] => +12027131822
+    [dateofbirth] => 15/07/1988
+    [ethnicity] => other-ethnic
+    [sex] => male
+    [current_address1] => na
+    [current_address2] => na
+    [current_city] => London
+    [current_city_post_code] => SW11 2PF
+    [current_country] => United Kingdom
+    [isolate_address1] => na
+    [isolate_address2] => na
+    [isolate_city] => London
+    [isolate_city_post_code] => SW11 2PF
+    [isolate_country] => United Kingdom
+    [departure_date] => 17/01/2023
+    [flight_num] => hdhdfg
+    [tp_city] => maryland
+    [tp_country] => United States
+    [tp_airport] => na
+    [final_arrival_date] => 18/08/2022
+    [final_arrival_port] => HHH
+    [final_arrival_city] => HHH
+    [final_arrival_flightnum] => HHH
+    [vaccination] => no
+    [transit_stopover_data] => default
+)
+
+4 inserted id  111677
+5 success  
+-------------------------

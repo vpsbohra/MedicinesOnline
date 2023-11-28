@@ -1,0 +1,47 @@
+ User id : 80522
+acccount>travel_func
+"vaccination=yes&vaccination_name=&first_name=Katherine&last_name=Sands&passport_number=543161506&email=katherine%40liquidcreation.co.uk&nhs_no=&tel=07711065728&dateofbirth=22%2F02%2F1984&ethnicity=white-british&sex=Female&current_address1=Sharow+end%2C+Sharow+lane&current_address2=Sharow&current_country=United+Kingdom&current_city=Ripon&current_city_post_code=Hg4+5bg&check1_hidden=yes&isolate_address1=&isolate_address2=&isolate_city=&isolate_city_post_code=&isolate_country=&departure_date=12%2F05%2F2023&flight_num=000000&tp_country=United+States&tp_city=Not+applicable+&tp_airport=Not+applicable+&transit_stopover%5B0%5D%5Btransit_stopover_country%5D=&transit_stopover%5B0%5D%5Btransit_stopover_city%5D=&transit_stopover%5B0%5D%5Btransit_stopover_airport%5D=&transit_stopover%5B0%5D%5Btransit_stopover_departure_date%5D=&final_arrival_date=13%2F05%2F2023&final_arrival_port=Not+applicable+&final_arrival_city=Not+applicable+&final_arrival_flightnum=000000&user_id=80522&booking_id=133268"
+1 form submitted call
+2 registeration id : MOLUK100000
+3 User form data Array
+(
+    [user_id] => 80522
+    [productID] => 133268
+    [registrationID] => MOLUK100000
+    [passport] => 543161506
+    [orderID] => 0
+    [first_name] => Katherine
+    [last_name] => Sands
+    [email] => katherine@liquidcreation.co.uk
+    [nhs_no] => 
+    [tel] => 07711065728
+    [dateofbirth] => 22/02/1984
+    [ethnicity] => white-british
+    [sex] => Female
+    [current_address1] => Sharow end, Sharow lane
+    [current_address2] => Sharow
+    [current_city] => Ripon
+    [current_city_post_code] => Hg4 5bg
+    [current_country] => United Kingdom
+    [isolate_address1] => Sharow end, Sharow lane
+    [isolate_address2] => Sharow
+    [isolate_city] => Ripon
+    [isolate_city_post_code] => Hg4 5bg
+    [isolate_country] => United Kingdom
+    [departure_date] => 12/05/2023
+    [flight_num] => 000000
+    [tp_city] => Not applicable 
+    [tp_country] => United States
+    [tp_airport] => Not applicable 
+    [final_arrival_date] => 13/05/2023
+    [final_arrival_port] => Not applicable 
+    [final_arrival_city] => Not applicable 
+    [final_arrival_flightnum] => 000000
+    [vaccination] => yes
+    [greenamber] => 
+    [transit_stopover_data] => default
+)
+
+4 inserted id  111678
+5 success  
+-------------------------
